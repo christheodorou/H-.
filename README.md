@@ -29,4 +29,4 @@ application/h5p (1.07 MB)
 φυλλομετρητής: Internet Explorer, Mozilla Firefox, Safari, Google Chrome, Opera, Microsoft Edge
 λειτουργικό σύστημα: Windows XP, Windows 2000, Windows Vista, Windows 7, Windows 8, Linux, Windows 10, Apple macOS, Android OS
 ΑΔΕΙΑ ΧΡΗΣΗΣ:
-Creative Commons Attribution-NonCommercial-ShareAlike Greece 3.0
+Creative Commons-Attribution-NonCommercial-ShareAlike 4.0 International
